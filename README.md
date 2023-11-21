@@ -1,5 +1,4 @@
 # CODSOFT
-This is a simple CLI Calculator using python
-It asks user to select a arithmetic operation
-Then asks the user to input two numbers to perform the specified operation
--Coded by: Muhammed Nihal
+This repo is for CodSoft Internship Tasks
+I have completed 3 tasks and uploaded their code in this repo
+Feel free to checkout my code :)
